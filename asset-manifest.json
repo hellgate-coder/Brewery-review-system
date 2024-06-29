@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brewery-review-system/static/css/main.9ea0d574.css",
+    "main.js": "/Brewery-review-system/static/js/main.d5cab674.js",
+    "index.html": "/Brewery-review-system/index.html",
+    "main.9ea0d574.css.map": "/Brewery-review-system/static/css/main.9ea0d574.css.map",
+    "main.d5cab674.js.map": "/Brewery-review-system/static/js/main.d5cab674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ea0d574.css",
+    "static/js/main.d5cab674.js"
+  ]
+}
